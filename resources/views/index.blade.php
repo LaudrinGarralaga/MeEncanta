@@ -211,124 +211,88 @@
                 </div>
               </div>
             </div>
-          <section class="details-card">
+          
               <div class="container">
                   <div class="row" >
                       <div class="col-md-3">
-                          <div class="card-content">
-                              <div class="card-img">
-                                  <img src="https://boticario.vteximg.com.br/arquivos/ids/195614-500-500/RESPEITO-AOS-CACHOS-CONDICIONADOR.jpg?v=636735618438630000C" alt="">
-                                  <span><h4>Cabelo</h4></span>
-                              </div>
-                              <div class="card-desc">
-                                  <h5>Condicionador Monange Boticário Verde</h5>
-                                  <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laboriosam, voluptatum! Dolor quo, perspiciatis
-                                      voluptas totam</p>
-                                      <a href="#" class="btn-card">Mais </a>   
-                              </div>
+                        <div class="card">
+                          <img class="card_img" src="img/neutro_5.jpg" alt="Card image cap">
+                          <div class="card-body">
+                            <h5 class="card-title"><strong>SHAMPOO NEUTRO SEM SAL NUTRILINE 4,6L</strong></h5>
+                            <p class="card-text">R$ 40,50 À VISTA <br>
+                              <span class="span_texto">ou R$ 45,00 EM 3 X SEM JUROS</span> </p>
+                            <a href="#" class="btn btn-primary">Mais detalhes</a>
                           </div>
+                        </div>
                       </div>
                       <div class="col-md-3">
-                          <div class="card-content">
-                              <div class="card-img">
-                                  <img src="https://placeimg.com/380/230/animals" alt="">
-                                  <span><h4>heading2</h4></span>
-                              </div>
-                              <div class="card-desc">
-                                  <h3>Heading2</h3>
-                                  <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laboriosam, voluptatum! Dolor quo, perspiciatis
-                                      voluptas totam</p>
-                                      <a href="#" class="btn-card">Mais</a>   
-                              </div>
+                        <div class="card">
+                          <img class="card_img" src="img/neutro_5.jpg" alt="Card image cap">
+                          <div class="card-body">
+                            <h5 class="card-title"><strong>SHAMPOO NEUTRO SEM SAL NUTRILINE 4,6L</strong></h5>
+                            <p class="card-text">R$ 40,50 À VISTA <br>
+                              <span class="span_texto">ou R$ 45,00 EM 3 X SEM JUROS</span> </p>
+                            <a href="#" class="btn btn-primary">Mais detalhes</a>
                           </div>
+                        </div>
                       </div>
                       <div class="col-md-3">
-                          <div class="card-content">
-                              <div class="card-img">
-                                  <img src="https://placeimg.com/380/230/tech" alt="">
-                                  <span><h4>heading3</h4></span>
-                              </div>
-                              <div class="card-desc">
-                                  <h3>Heading3</h3>
-                                  <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laboriosam, voluptatum! Dolor quo, perspiciatis
-                                      voluptas totam</p>
-                                      <a href="#" class="btn-card">Mais </a>   
-                              </div>
+                        <div class="card">
+                          <img class="card_img" src="img/neutro_5.jpg" alt="Card image cap">
+                          <div class="card-body">
+                            <h5 class="card-title"><strong>SHAMPOO NEUTRO SEM SAL NUTRILINE 4,6L</strong></h5>
+                            <p class="card-text">R$ 40,50 À VISTA <br>
+                              <span class="span_texto">ou R$ 45,00 EM 3 X SEM JUROS</span> </p>
+                            <a href="#" class="btn btn-primary">Mais detalhes</a>
                           </div>
+                        </div>
                       </div>
-                      <div class="col-md-3">
-                          <div class="card-content">
-                              <div class="card-img">
-                                  <img src="https://placeimg.com/380/230/tech" alt="">
-                                  <span><h4>heading3</h4></span>
-                              </div>
-                              <div class="card-desc">
-                                  <h3>Heading3</h3>
-                                  <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laboriosam, voluptatum! Dolor quo, perspiciatis
-                                      voluptas totam</p>
-                                      <a href="#" class="btn-card">Mais</a>   
-                              </div>
+                     <div class="col-md-3">
+                        <div class="card">
+                          <img class="card_img" src="img/neutro_5.jpg" alt="Card image cap">
+                          <div class="card-body">
+                            <h5 class="card-title"><strong>SHAMPOO NEUTRO SEM SAL NUTRILINE 4,6L</strong></h5>
+                            <p class="card-text">R$ 40,50 À VISTA <br>
+                              <span class="span_texto">ou R$ 45,00 EM 3 X SEM JUROS</span> </p>
+                            <a href="#" class="btn btn-primary">Mais detalhes</a>
                           </div>
+                        </div>
                       </div>
-                      <div class="col-md-3">
-                          <div class="card-content">
-                              <div class="card-img">
-                                  <img src="https://placeimg.com/380/230/tech" alt="">
-                                  <span><h4>heading3</h4></span>
-                              </div>
-                              <div class="card-desc">
-                                  <h3>Heading3</h3>
-                                  <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laboriosam, voluptatum! Dolor quo, perspiciatis
-                                      voluptas totam</p>
-                                      <a href="#" class="btn-card">Mais </a>   
-                              </div>
+                     <div class="col-md-3">
+                        <div class="card">
+                          <img class="card_img" src="img/neutro_5.jpg" alt="Card image cap">
+                          <div class="card-body">
+                            <h5 class="card-title"><strong>SHAMPOO NEUTRO SEM SAL NUTRILINE 4,6L</strong></h5>
+                            <p class="card-text">R$ 40,50 À VISTA <br>
+                              <span class="span_texto">ou R$ 45,00 EM 3 X SEM JUROS</span> </p>
+                            <a href="#" class="btn btn-primary">Mais detalhes</a>
                           </div>
+                        </div>
                       </div>
-                      <div class="col-md-3">
-                          <div class="card-content">
-                              <div class="card-img">
-                                  <img src="https://placeimg.com/380/230/tech" alt="">
-                                  <span><h4>heading3</h4></span>
-                              </div>
-                              <div class="card-desc">
-                                  <h3>Heading3</h3>
-                                  <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laboriosam, voluptatum! Dolor quo, perspiciatis
-                                      voluptas totam</p>
-                                      <a href="#" class="btn-card">Mais </a>   
-                              </div>
+                     <div class="col-md-3">
+                        <div class="card">
+                          <img class="card_img" src="img/neutro_5.jpg" alt="Card image cap">
+                          <div class="card-body">
+                            <h5 class="card-title"><strong>SHAMPOO NEUTRO SEM SAL NUTRILINE 4,6L</strong></h5>
+                            <p class="card-text">R$ 40,50 À VISTA <br>
+                              <span class="span_texto">ou R$ 45,00 EM 3 X SEM JUROS</span> </p>
+                            <a href="#" class="btn btn-primary">Mais detalhes</a>
                           </div>
+                        </div>
                       </div>
-                      <div class="col-md-3">
-                          <div class="card-content">
-                              <div class="card-img">
-                                  <img src="https://placeimg.com/380/230/tech" alt="">
-                                  <span><h4>heading3</h4></span>
-                              </div>
-                              <div class="card-desc">
-                                  <h3>Heading3</h3>
-                                  <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laboriosam, voluptatum! Dolor quo, perspiciatis
-                                      voluptas totam</p>
-                                      <a href="#" class="btn-card">Mais</a>
-                              </div>
+                     <div class="col-md-3">
+                        <div class="card">
+                          <img class="card_img" src="img/neutro_5.jpg" alt="Card image cap">
+                          <div class="card-body">
+                            <h5 class="card-title"><strong>SHAMPOO NEUTRO SEM SAL NUTRILINE 4,6L</strong></h5>
+                            <p class="card-text">R$ 40,50 À VISTA <br>
+                              <span class="span_texto">ou R$ 45,00 EM 3 X SEM JUROS</span> </p>
+                            <a href="#" class="btn btn-primary">Mais detalhes</a>
                           </div>
-                      </div>
-                      <div class="col-md-3">
-                          <div class="card-content">
-                              <div class="card-img">
-                                  <img src="https://placeimg.com/380/230/tech" alt="">
-                                  <span><h4>heading3</h4></span>
-                              </div>
-                              <div class="card-desc">
-                                  <h3>Heading3</h3>
-                                  <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laboriosam, voluptatum! Dolor quo, perspiciatis
-                                      voluptas totam</p>
-                                      <a href="#" class="btn-card">Mais</a>
-                              </div>
-                          </div>
+                        </div>
                       </div>
                   </div>
-              </div>
-          </section>
+              </div>      
         </div>
     </div>
 
