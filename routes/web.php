@@ -14,3 +14,13 @@
 Route::get('/', function () {
     return view('index');
 });
+
+Route::get('detalhes', function () {
+    return view('detalhes');
+});
+
+Route::get('categoria', function () {
+    return view('categoria');
+});
+
+
