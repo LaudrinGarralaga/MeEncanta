@@ -3024,26 +3024,3 @@ code {
 .dropdown-item.disabled, .dropdown-item:disabled {
   color: #6c757d;
 }
-
-.card {
-  width: 15rem; 
-  margin-bottom: 10px; 
-}
-
-.card_img {
-  height: 200px;
-   padding: 15px;
-}
-
-.card-text {
-  text-align: left;
-  font-size: 11pt; 
-  color: #dc3545; 
-  font-weight: 600;
-}
-
-.span_texto {
-  text-align: left; 
-  font-size: 9pt; 
-  color: dimgrey;
-}

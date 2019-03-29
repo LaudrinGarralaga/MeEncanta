@@ -215,78 +215,78 @@
               <div class="container">
                   <div class="row" >
                       <div class="col-md-3">
-                        <div class="card">
-                          <img class="card_img" src="img/neutro_5.jpg" alt="Card image cap">
+                        <div class="card" style="width: 15rem;margin-bottom: 10px">
+                          <img class="card_img" src="img/neutro_5.jpg" alt="Card image cap" style="height: 200px; padding: 15px">
                           <div class="card-body">
                             <h5 class="card-title"><strong>SHAMPOO NEUTRO SEM SAL NUTRILINE 4,6L</strong></h5>
-                            <p class="card-text">R$ 40,50 À VISTA <br>
-                              <span class="span_texto">ou R$ 45,00 EM 3 X SEM JUROS</span> </p>
+                            <p class="card-text" style=" text-align: left; font-size: 11pt; color: #dc3545; font-weight: 600;">R$ 40,50 À VISTA <br>
+                              <span class="span_texto" style="text-align: left; font-size: 9pt; color: dimgrey;">ou R$ 45,00 EM 3 X SEM JUROS</span> </p>
                             <a href="#" class="btn btn-primary">Mais detalhes</a>
                           </div>
                         </div>
                       </div>
                       <div class="col-md-3">
-                        <div class="card">
-                          <img class="card_img" src="img/neutro_5.jpg" alt="Card image cap">
+                        <div class="card" style="width: 15rem;margin-bottom: 10px">
+                          <img class="card_img" src="img/neutro_5.jpg" alt="Card image cap" style="height: 200px; padding: 15px">
                           <div class="card-body">
                             <h5 class="card-title"><strong>SHAMPOO NEUTRO SEM SAL NUTRILINE 4,6L</strong></h5>
-                            <p class="card-text">R$ 40,50 À VISTA <br>
-                              <span class="span_texto">ou R$ 45,00 EM 3 X SEM JUROS</span> </p>
+                            <p class="card-text" style=" text-align: left; font-size: 11pt; color: #dc3545; font-weight: 600;">R$ 40,50 À VISTA <br>
+                              <span class="span_texto" style="text-align: left; font-size: 9pt; color: dimgrey;">ou R$ 45,00 EM 3 X SEM JUROS</span> </p>
                             <a href="#" class="btn btn-primary">Mais detalhes</a>
                           </div>
                         </div>
                       </div>
                       <div class="col-md-3">
-                        <div class="card">
-                          <img class="card_img" src="img/neutro_5.jpg" alt="Card image cap">
+                        <div class="card" style="width: 15rem;margin-bottom: 10px">
+                          <img class="card_img" src="img/neutro_5.jpg" alt="Card image cap" style="height: 200px; padding: 15px">
                           <div class="card-body">
                             <h5 class="card-title"><strong>SHAMPOO NEUTRO SEM SAL NUTRILINE 4,6L</strong></h5>
-                            <p class="card-text">R$ 40,50 À VISTA <br>
-                              <span class="span_texto">ou R$ 45,00 EM 3 X SEM JUROS</span> </p>
+                            <p class="card-text" style=" text-align: left; font-size: 11pt; color: #dc3545; font-weight: 600;">R$ 40,50 À VISTA <br>
+                              <span class="span_texto" style="text-align: left; font-size: 9pt; color: dimgrey;">ou R$ 45,00 EM 3 X SEM JUROS</span> </p>
                             <a href="#" class="btn btn-primary">Mais detalhes</a>
                           </div>
                         </div>
                       </div>
                      <div class="col-md-3">
-                        <div class="card">
-                          <img class="card_img" src="img/neutro_5.jpg" alt="Card image cap">
+                        <div class="card" style="width: 15rem;margin-bottom: 10px">
+                          <img class="card_img" src="img/neutro_5.jpg" alt="Card image cap" style="height: 200px; padding: 15px">
                           <div class="card-body">
                             <h5 class="card-title"><strong>SHAMPOO NEUTRO SEM SAL NUTRILINE 4,6L</strong></h5>
-                            <p class="card-text">R$ 40,50 À VISTA <br>
-                              <span class="span_texto">ou R$ 45,00 EM 3 X SEM JUROS</span> </p>
+                            <p class="card-text" style=" text-align: left; font-size: 11pt; color: #dc3545; font-weight: 600;">R$ 40,50 À VISTA <br>
+                              <span class="span_texto" style="text-align: left; font-size: 9pt; color: dimgrey;">ou R$ 45,00 EM 3 X SEM JUROS</span> </p>
                             <a href="#" class="btn btn-primary">Mais detalhes</a>
                           </div>
                         </div>
                       </div>
                      <div class="col-md-3">
-                        <div class="card">
-                          <img class="card_img" src="img/neutro_5.jpg" alt="Card image cap">
+                        <div class="card" style="width: 15rem;margin-bottom: 10px">
+                          <img class="card_img" src="img/neutro_5.jpg" alt="Card image cap" style="height: 200px; padding: 15px">
                           <div class="card-body">
                             <h5 class="card-title"><strong>SHAMPOO NEUTRO SEM SAL NUTRILINE 4,6L</strong></h5>
-                            <p class="card-text">R$ 40,50 À VISTA <br>
-                              <span class="span_texto">ou R$ 45,00 EM 3 X SEM JUROS</span> </p>
+                            <p class="card-text" style=" text-align: left; font-size: 11pt; color: #dc3545; font-weight: 600;">R$ 40,50 À VISTA <br>
+                              <span class="span_texto" style="text-align: left; font-size: 9pt; color: dimgrey;">ou R$ 45,00 EM 3 X SEM JUROS</span> </p>
                             <a href="#" class="btn btn-primary">Mais detalhes</a>
                           </div>
                         </div>
                       </div>
                      <div class="col-md-3">
-                        <div class="card">
-                          <img class="card_img" src="img/neutro_5.jpg" alt="Card image cap">
+                        <div class="card" style="width: 15rem;margin-bottom: 10px">
+                          <img class="card_img" src="img/neutro_5.jpg" alt="Card image cap" style="height: 200px; padding: 15px">
                           <div class="card-body">
                             <h5 class="card-title"><strong>SHAMPOO NEUTRO SEM SAL NUTRILINE 4,6L</strong></h5>
-                            <p class="card-text">R$ 40,50 À VISTA <br>
-                              <span class="span_texto">ou R$ 45,00 EM 3 X SEM JUROS</span> </p>
+                            <p class="card-text" style=" text-align: left; font-size: 11pt; color: #dc3545; font-weight: 600;">R$ 40,50 À VISTA <br>
+                              <span class="span_texto" style="text-align: left; font-size: 9pt; color: dimgrey;">ou R$ 45,00 EM 3 X SEM JUROS</span> </p>
                             <a href="#" class="btn btn-primary">Mais detalhes</a>
                           </div>
                         </div>
                       </div>
                      <div class="col-md-3">
-                        <div class="card">
-                          <img class="card_img" src="img/neutro_5.jpg" alt="Card image cap">
+                        <div class="card" style="width: 15rem;margin-bottom: 10px">
+                          <img class="card_img" src="img/neutro_5.jpg" alt="Card image cap" style="height: 200px; padding: 15px">
                           <div class="card-body">
                             <h5 class="card-title"><strong>SHAMPOO NEUTRO SEM SAL NUTRILINE 4,6L</strong></h5>
-                            <p class="card-text">R$ 40,50 À VISTA <br>
-                              <span class="span_texto">ou R$ 45,00 EM 3 X SEM JUROS</span> </p>
+                            <p class="card-text" style=" text-align: left; font-size: 11pt; color: #dc3545; font-weight: 600;">R$ 40,50 À VISTA <br>
+                              <span class="span_texto" style="text-align: left; font-size: 9pt; color: dimgrey;">ou R$ 45,00 EM 3 X SEM JUROS</span> </p>
                             <a href="#" class="btn btn-primary">Mais detalhes</a>
                           </div>
                         </div>
