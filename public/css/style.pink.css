@@ -3024,6 +3024,7 @@ code {
 .dropdown-item.disabled, .dropdown-item:disabled {
   color: #6c757d;
 }
+<<<<<<< HEAD
 
 .card {
   width: 15rem; 
@@ -3047,3 +3048,5 @@ code {
   font-size: 9pt; 
   color: dimgrey;
 }
+=======
+>>>>>>> 2a0ea8eee8af77368eed849163d20b60de723ee5
