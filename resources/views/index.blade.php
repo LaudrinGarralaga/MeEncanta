@@ -216,7 +216,8 @@
                   <div class="row" >
                       <div class="col-md-3">
                         <div class="card" style="width: 15rem;margin-bottom: 10px">
-                          <img class="card_img" src="img/neutro_5.jpg" alt="Card image cap" style="height: 200px; padding: 15px">
+                          <img class="card_img" src="img/neutro_5.jpg" alt="Card image cap" style="height: 250px; width: 200px; padding-left: 15px; 
+                            margin-bottom: -15px; padding-right: 15px; margin-left: auto; margin-right: auto">
                           <div class="card-body">
                             <h5 class="card-title"><strong>SHAMPOO NEUTRO SEM SAL NUTRILINE 4,6L</strong></h5>
                             <p class="card-text" style=" text-align: left; font-size: 11pt; color: #dc3545; font-weight: 600;">R$ 40,50 À VISTA <br>
@@ -227,7 +228,8 @@
                       </div>
                       <div class="col-md-3">
                         <div class="card" style="width: 15rem;margin-bottom: 10px">
-                          <img class="card_img" src="img/neutro_5.jpg" alt="Card image cap" style="height: 200px; padding: 15px">
+                          <img class="card_img" src="img/neutro_5.jpg" alt="Card image cap" style="height: 250px; width: 200px; padding-left: 15px; 
+                            margin-bottom: -15px; padding-right: 15px; margin-left: auto; margin-right: auto">
                           <div class="card-body">
                             <h5 class="card-title"><strong>SHAMPOO NEUTRO SEM SAL NUTRILINE 4,6L</strong></h5>
                             <p class="card-text" style=" text-align: left; font-size: 11pt; color: #dc3545; font-weight: 600;">R$ 40,50 À VISTA <br>
@@ -238,7 +240,8 @@
                       </div>
                       <div class="col-md-3">
                         <div class="card" style="width: 15rem;margin-bottom: 10px">
-                          <img class="card_img" src="img/neutro_5.jpg" alt="Card image cap" style="height: 200px; padding: 15px">
+                          <img class="card_img" src="img/neutro_5.jpg" alt="Card image cap" style="height: 250px; width: 200px; padding-left: 15px; 
+                            margin-bottom: -15px; padding-right: 15px; margin-left: auto; margin-right: auto">
                           <div class="card-body">
                             <h5 class="card-title"><strong>SHAMPOO NEUTRO SEM SAL NUTRILINE 4,6L</strong></h5>
                             <p class="card-text" style=" text-align: left; font-size: 11pt; color: #dc3545; font-weight: 600;">R$ 40,50 À VISTA <br>
@@ -249,7 +252,8 @@
                       </div>
                      <div class="col-md-3">
                         <div class="card" style="width: 15rem;margin-bottom: 10px">
-                          <img class="card_img" src="img/neutro_5.jpg" alt="Card image cap" style="height: 200px; padding: 15px">
+                          <img class="card_img" src="img/neutro_5.jpg" alt="Card image cap" style="height: 250px; width: 200px; padding-left: 15px; 
+                            margin-bottom: -15px; padding-right: 15px; margin-left: auto; margin-right: auto">
                           <div class="card-body">
                             <h5 class="card-title"><strong>SHAMPOO NEUTRO SEM SAL NUTRILINE 4,6L</strong></h5>
                             <p class="card-text" style=" text-align: left; font-size: 11pt; color: #dc3545; font-weight: 600;">R$ 40,50 À VISTA <br>
@@ -260,7 +264,8 @@
                       </div>
                      <div class="col-md-3">
                         <div class="card" style="width: 15rem;margin-bottom: 10px">
-                          <img class="card_img" src="img/neutro_5.jpg" alt="Card image cap" style="height: 200px; padding: 15px">
+                          <img class="card_img" src="img/neutro_5.jpg" alt="Card image cap" style="height: 250px; width: 200px; padding-left: 15px; 
+                            margin-bottom: -15px; padding-right: 15px; margin-left: auto; margin-right: auto">
                           <div class="card-body">
                             <h5 class="card-title"><strong>SHAMPOO NEUTRO SEM SAL NUTRILINE 4,6L</strong></h5>
                             <p class="card-text" style=" text-align: left; font-size: 11pt; color: #dc3545; font-weight: 600;">R$ 40,50 À VISTA <br>
@@ -271,7 +276,8 @@
                       </div>
                      <div class="col-md-3">
                         <div class="card" style="width: 15rem;margin-bottom: 10px">
-                          <img class="card_img" src="img/neutro_5.jpg" alt="Card image cap" style="height: 200px; padding: 15px">
+                          <img class="card_img" src="img/neutro_5.jpg" alt="Card image cap" style="height: 250px; width: 200px; padding-left: 15px; 
+                            margin-bottom: -15px; padding-right: 15px; margin-left: auto; margin-right: auto">
                           <div class="card-body">
                             <h5 class="card-title"><strong>SHAMPOO NEUTRO SEM SAL NUTRILINE 4,6L</strong></h5>
                             <p class="card-text" style=" text-align: left; font-size: 11pt; color: #dc3545; font-weight: 600;">R$ 40,50 À VISTA <br>
@@ -282,7 +288,8 @@
                       </div>
                      <div class="col-md-3">
                         <div class="card" style="width: 15rem;margin-bottom: 10px">
-                          <img class="card_img" src="img/neutro_5.jpg" alt="Card image cap" style="height: 200px; padding: 15px">
+                          <img class="card_img" src="img/neutro_5.jpg" alt="Card image cap" style="height: 250px; width: 200px; padding-left: 15px; 
+                            margin-bottom: -15px; padding-right: 15px; margin-left: auto; margin-right: auto">
                           <div class="card-body">
                             <h5 class="card-title"><strong>SHAMPOO NEUTRO SEM SAL NUTRILINE 4,6L</strong></h5>
                             <p class="card-text" style=" text-align: left; font-size: 11pt; color: #dc3545; font-weight: 600;">R$ 40,50 À VISTA <br>
